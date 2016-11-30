@@ -66,7 +66,14 @@ def os_path_split(fullpath):
 
 # There has been problems with calling isfile with non ascii characters,
 # so we have this method to try and do the conversion for us
-def os_path_isfile(workingPath,):
+def os_path_isfile(workingPath):
+    # Support special paths like smb:// means that we can not just call
+    # os.path.isfile as it will return false even if it is a file
+    # (A bit of a shame - but that's the way it is)
+    if workingPath.startswith("smb://") or workingPath.startswith("nfs://"):
+        # The test for the file existing will not work, so return true
+        return True
+
     # Convert each argument - if an error, then it will use the default value
     # that was passed in
     try:

@@ -78,6 +78,13 @@ class CollectSets():
 
             log("CollectSets: Collection Name is %s" % collectionDetails['name'])
 
+            # Record which sets are builtin to the addon
+            collectionDetails['builtin'] = 'false'
+            builtinElem = collectionElem.getroot().find('builtin')
+            if builtinElem not in [None, ""]:
+                if builtinElem.text == 'true':
+                    collectionDetails['builtin'] = 'true'
+
             isEncoded = False
             encodedElem = collectionElem.getroot().find('encoded')
             if encodedElem not in [None, ""]:

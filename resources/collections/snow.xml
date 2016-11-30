@@ -1,6 +1,7 @@
 <videoscreensaver>
 	<collection>Snow</collection>
 	<encoded>true</encoded>
+	<builtin>true</builtin>
 	<video>
 		<name>Snow 1 - [1.3GB] - 720p</name>
 		<filename>Snow001-720p.mp4</filename>

@@ -1,6 +1,7 @@
 <videoscreensaver>
 	<collection>Fireplace</collection>
 	<encoded>true</encoded>
+	<builtin>true</builtin>
 	<video>
 		<name>Fireplace 1 - [965MB] - 720p</name>
 		<filename>Fireplace001-720p.mkv</filename>

@@ -1,6 +1,7 @@
 <videoscreensaver>
 	<collection>Space</collection>
 	<encoded>true</encoded>
+	<builtin>true</builtin>
 	<video>
 		<name>Space 1 - [970MB] - 720p</name>
 		<filename>Space001-720p.mp4</filename>

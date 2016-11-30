@@ -95,7 +95,7 @@ class MenuNavigator():
 
             li.addContextMenuItems(self._getContextMenu(videoItem), replaceItems=True)
 
-            url = self._build_url({'mode': 'download', 'name': videoItem['name'], 'filename': videoItem['filename'], 'primary': videoItem['primary']})
+            url = self._build_url({'mode': 'download', 'name': videoItem['name'], 'filename': videoItem['filename'], 'primary': videoItem['primary'], 'builtin': collectionDetails['builtin']})
 
             xbmcplugin.addDirectoryItem(handle=self.addon_handle, url=url, listitem=li, isFolder=False)
 
@@ -394,21 +394,27 @@ if __name__ == '__main__':
         primary = None
         secondary = None
 
-        nameItem = args.get('name', None)
-        if (nameItem is not None) and (len(nameItem) > 0):
-            name = nameItem[0]
+        # Check the buildin flag, if that is set we need to tell the
+        # user they are not available at the moment
+        builtinItem = args.get('builtin', None)
+        if (builtinItem is not None) and (len(builtinItem) > 0) and (builtinItem[0] == 'true'):
+            xbmcgui.Dialog().ok(ADDON.getLocalizedString(32005), "Unfortunately there is no longer any online storage available to store the default video sets (Approx 20GB). If you have storage you are willing to make available please contact robwebset via http://github.com/robwebset")
+        else:
+            nameItem = args.get('name', None)
+            if (nameItem is not None) and (len(nameItem) > 0):
+                name = nameItem[0]
 
-        filenameItem = args.get('filename', None)
-        if (filenameItem is not None) and (len(filenameItem) > 0):
-            filename = filenameItem[0]
+            filenameItem = args.get('filename', None)
+            if (filenameItem is not None) and (len(filenameItem) > 0):
+                filename = filenameItem[0]
 
-        primaryItem = args.get('primary', None)
-        if (primaryItem is not None) and (len(primaryItem) > 0):
-            primary = primaryItem[0]
+            primaryItem = args.get('primary', None)
+            if (primaryItem is not None) and (len(primaryItem) > 0):
+                primary = primaryItem[0]
 
-        menuNav = MenuNavigator(base_url, addon_handle)
-        menuNav.download(name, filename, primary)
-        del menuNav
+            menuNav = MenuNavigator(base_url, addon_handle)
+            menuNav.download(name, filename, primary)
+            del menuNav
 
     elif mode[0] == 'delete':
         log("VideoScreensaverPlugin: Mode is delete")

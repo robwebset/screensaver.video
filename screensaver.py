@@ -588,10 +588,8 @@ class Scheduler(object):
         while itemNum <= numScheduleEntries:
             videoFile = Settings.getRuleVideoFile(itemNum)
             if videoFile not in [None, ""]:
-                # Support special paths like smb:// means that we can not just call
-                # os.path.isfile as it will return false even if it is a file
-                # (A bit of a shame - but that's the way it is)
-                if videoFile.startswith("smb://") or os_path_isfile(videoFile):
+                # Check if the video file exists
+                if os_path_isfile(videoFile):
                     overlayFile = Settings.getRuleOverlayFile(itemNum)
                     startTime = Settings.getRuleStartTime(itemNum)
                     endTime = Settings.getRuleEndTime(itemNum)
@@ -669,10 +667,8 @@ class Scheduler(object):
                                 overlayFile = os_path_join(directory, overlayFile)
                         log("Schedule File: Item %d (Start:%d, End:%d) contains video %s" % (itemNum, startTime, endTime, videoFile))
 
-                        # Support special paths like smb:// means that we can not just call
-                        # os.path.isfile as it will return false even if it is a file
-                        # (A bit of a shame - but that's the way it is)
-                        if videoFile.startswith("smb://") or os_path_isfile(videoFile):
+                        # Check if the video file exists
+                        if os_path_isfile(videoFile):
                             details = {'id': itemNum, 'start': startTime, 'end': endTime, 'day': day, 'video': videoFile, 'overlay': overlayFile}
                             self.scheduleDetails.append(details)
                         else:
