@@ -1,6 +1,7 @@
 <videoscreensaver>
 	<collection>Aquarium</collection>
 	<encoded>true</encoded>
+	<builtin>true</builtin>
 	<video>
 		<name>Aquarium 1 - [846MB] - 400p</name>
 		<filename>Aquarium001.mkv</filename>

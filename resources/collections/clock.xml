@@ -1,6 +1,7 @@
 <videoscreensaver>
 	<collection>Clock</collection>
 	<encoded>true</encoded>
+	<builtin>true</builtin>
 	<video>
 		<name>Clock 1 - [1.5GB] - 720p</name>
 		<filename>Clock001-720p.mp4</filename>

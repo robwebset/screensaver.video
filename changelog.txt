@@ -1,3 +1,6 @@
+v100.6.0 (2016-11-30)
+- Add support for scheduled videos on NFS
+
 v1.5.2 (2016-08-29)
 - Add more screensaver videos
 
