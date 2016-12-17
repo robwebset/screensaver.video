@@ -1,3 +1,6 @@
+v100.7.0 (2016-12-17)
+- Update for support of URepo
+
 v100.6.0 (2016-11-30)
 - Add support for scheduled videos on NFS
 
@@ -35,7 +38,6 @@ v1.2.0 (2015-08-12)
 - Fix random start point always being 5 seconds from the end
 
 v1.1.8 (2015-07-23)
-- Switch default downloads to server kindly provided by Ziggy
 - Add additional screensavers
 - Add clock screensaver support
 
@@ -101,3 +103,5 @@ v1.0.1 (2014-12-13)
 
 v1.0.0 (2014-12-09)
 - Initial Version
+
+Icon Font: Ravie Regular
