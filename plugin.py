@@ -398,7 +398,7 @@ if __name__ == '__main__':
         # user they are not available at the moment
         builtinItem = args.get('builtin', None)
         if (builtinItem is not None) and (len(builtinItem) > 0) and (builtinItem[0] == 'true'):
-            xbmcgui.Dialog().ok(ADDON.getLocalizedString(32005), "Unfortunately there is no longer any online storage available to store the default video sets (Approx 60GB). If you have storage you are willing to make available please contact robwebset via http://github.com/robwebset")
+            xbmcgui.Dialog().ok(ADDON.getLocalizedString(32005), "Unfortunately there is no longer any online storage available to store the default video sets (Approx 50GB). If you have storage you are willing to make available please contact robwebset via http://github.com/robwebset")
         else:
             nameItem = args.get('name', None)
             if (nameItem is not None) and (len(nameItem) > 0):

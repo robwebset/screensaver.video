@@ -1,3 +1,6 @@
+v100.7.1 (2016-12-20)
+- Add more Apple Videos
+
 v100.7.0 (2016-12-17)
 - Update for support of URepo
 

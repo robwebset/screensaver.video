@@ -113,7 +113,8 @@ class CollectSets():
 
                 durationElem = elemItem.find('duration')
                 if durationElem not in [None, "", 0]:
-                    video['duration'] = int(durationElem.text)
+                    if durationElem.text not in [None, "", 0]:
+                        video['duration'] = int(durationElem.text)
 
                 primaryElem = elemItem.find('primary')
                 if nameElem not in [None, ""]:
