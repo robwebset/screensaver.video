@@ -23,26 +23,17 @@ CWD = ADDON.getAddonInfo('path').decode("utf-8")
 if __name__ == '__main__':
     log("VideoScreensaverService: Startup checks")
 
-    json_query = xbmc.executeJSONRPC('{"jsonrpc": "2.0", "method": "Addons.GetAddonDetails", "params": { "addonid": "repository.robwebset", "properties": ["enabled", "broken", "name", "author"]  }, "id": 1}')
+    json_query = xbmc.executeJSONRPC('{"jsonrpc": "2.0", "method": "Addons.GetAddonDetails", "params": { "addonid": "repository.urepo", "properties": ["enabled", "broken", "name", "author"]  }, "id": 1}')
     json_response = json.loads(json_query)
 
     displayNotice = True
     if ("result" in json_response) and ('addon' in json_response['result']):
         addonItem = json_response['result']['addon']
-        if (addonItem['enabled'] is True) and (addonItem['broken'] is False) and (addonItem['type'] == 'xbmc.addon.repository') and (addonItem['addonid'] == 'repository.robwebset') and (addonItem['author'] == 'robwebset'):
+        if (addonItem['enabled'] is True) and (addonItem['broken'] is False) and (addonItem['type'] == 'xbmc.addon.repository') and (addonItem['addonid'] == 'repository.urepo'):
             displayNotice = False
 
     if displayNotice:
-        json_query = xbmc.executeJSONRPC('{"jsonrpc": "2.0", "method": "Addons.GetAddonDetails", "params": { "addonid": "repository.urepo", "properties": ["enabled", "broken", "name", "author"]  }, "id": 1}')
-        json_response = json.loads(json_query)
-
-        if ("result" in json_response) and ('addon' in json_response['result']):
-            addonItem = json_response['result']['addon']
-            if (addonItem['enabled'] is True) and (addonItem['broken'] is False) and (addonItem['type'] == 'xbmc.addon.repository') and (addonItem['addonid'] == 'repository.urepo'):
-                displayNotice = False
-
-    if displayNotice:
-        xbmc.executebuiltin('Notification("robwebset or URepo Repository Required","github.com/robwebset/repository.robwebset",10000,%s)' % ADDON.getAddonInfo('icon'))
+        xbmc.executebuiltin('Notification("URepo Repository Required","www.urepo.org",10000,%s)' % ADDON.getAddonInfo('icon'))
     else:
         # Check if the settings mean we want to reset the volume on startup
         startupVol = Settings.getStartupVolume()
