@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<category label="32001">
+		<setting id="lastBuiltinDownload" type="text" visible="false" option="hidden" label="Last Built In Download" default="0" />
 		<setting id="useFolder" type="bool" label="32023" default="true"/>
 		<setting id="screensaverFile" label="32051" subsetting="true" visible="eq(-1,false)" type="video"/>
 		<setting id="screensaverFolder" label="32054" subsetting="true" visible="eq(-2,true)" type="folder"/>

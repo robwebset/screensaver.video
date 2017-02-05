@@ -4,6 +4,7 @@ import time
 import xbmc
 import xbmcaddon
 import xbmcvfs
+import datetime
 
 ADDON = xbmcaddon.Addon(id='screensaver.video')
 ADDON_ID = ADDON.getAddonInfo('id')
@@ -436,3 +437,14 @@ class Settings():
         if ADDON.getSetting("showWeather") == 'true':
             weatherAddon = ADDON.getSetting("weatherAddon")
         return weatherAddon
+
+    @staticmethod
+    def setLastBuiltInDownload():
+        dayOfYear = datetime.datetime.now().timetuple().tm_yday
+        ADDON.setSetting('lastBuiltinDownload', str(dayOfYear))
+
+    @staticmethod
+    def isBuiltInDownloadOK():
+        dayOfYear = datetime.datetime.now().timetuple().tm_yday
+        lastDownload = int(ADDON.getSetting('lastBuiltinDownload'))
+        return (dayOfYear != lastDownload)

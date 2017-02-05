@@ -343,3 +343,11 @@ msgstr ""
 msgctxt "#32306"
 msgid "Failed to download video file"
 msgstr ""
+
+msgctxt "#32307"
+msgid "Download limit for built in screensavers exceeded."
+msgstr ""
+
+msgctxt "#32308"
+msgid "(Only 1 download a day allowed due to hosting restrictions)"
+msgstr ""
