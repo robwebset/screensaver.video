@@ -1,0 +1,360 @@
+[[https://github.com/robwebset/screensaver.video/raw/master/icon.png]]
+
+== Introduction ==
+You can install this addon from: [https://www.urepo.org URepo Repository]
+<br />
+<br />
+VideoScreensaver is a screensaver that will play a video file when the screensaver starts. It will support playing either a user specified video file, or one of several pre-defined video files.
+<br />
+
+== Built-In Screensaver Videos ==
+The following screensaver videos are supplied with the addon.  They can be enabled, downloaded and previewed via the Video -> Addons -> VideoScreensaver menu.  There is a context menu that allows you to preview and remove each screensaver video.
+
+=== Apple TV Collection ===
+==== China ====
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-China-D1.JPG|China - Day 1|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-China-D2.JPG|China - Day 2|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-China-D3.JPG|China - Day 3|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-China-D4.JPG|China - Day 4|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-China-D5.JPG|China - Day 5|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-China-D6.JPG|China - Day 6|none|thumb|250px]]
+|}
+==== Dubai ====
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Dubai-D1.JPG|Dubai - Day 1|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Dubai-D2.JPG|Dubai - Day 2|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Dubai-D3.JPG|Dubai - Day 3|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Dubai-D4.JPG|Dubai - Day 4|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Dubai-D5.JPG|Dubai - Day 5|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Dubai-N1.JPG|Dubai - Night 1|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Dubai-N2.JPG|Dubai - Night 1|none|thumb|250px]]
+|}
+==== Greenland ====
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Greenland-D1.JPG|Greenland - Day 1|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Greenland-D2.JPG|Greenland - Day 2|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Greenland-N1.JPG|Greenland - Night 1|none|thumb|250px]]
+|}
+==== Hawaii ====
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Hawaii-D1.JPG|Hawaii - Day 1|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Hawaii-D2.JPG|Hawaii - Day 2|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Hawaii-D3.JPG|Hawaii - Day 3|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Hawaii-D4.JPG|Hawaii - Day 4|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Hawaii-D5.JPG|Hawaii - Day 5|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Hawaii-D6.JPG|Hawaii - Day 6|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Hawaii-N1.JPG|Hawaii - Night 1|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-Hawaii-N2.JPG|Hawaii - Night 2|none|thumb|250px]]
+|}
+==== Hong Kong ====
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-HongKong-D1.JPG|Hong Kong - Day 1|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-HongKong-D2.JPG|Hong Kong - Day 2|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-HongKong-D3.JPG|Hong Kong - Day 3|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-HongKong-N1.JPG|Hong Kong - Night 1|none|thumb|250px]]
+|}
+==== London ====
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-London-D1.JPG|London - Day 1|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-London-D2.JPG|London - Day 2|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-London-N1.JPG|London - Night 1|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-London-N2.JPG|London - Night 2|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-London-N3.JPG|London - Night 3|none|thumb|250px]]
+|}
+==== Los Angeles ====
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-LosAngeles-D1.JPG|Los Angeles - Day 1|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-LosAngeles-D2.JPG|Los Angeles - Day 2|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-LosAngeles-D3.JPG|Los Angeles - Day 3|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-LosAngeles-D4.JPG|Los Angeles - Day 4|none|thumb|250px]]
+|}
+==== New York ====
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-NewYork-D1.JPG|New York - Day 1|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-NewYork-D2.JPG|New York - Day 2|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-NewYork-D3.JPG|New York - Day 3|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-NewYork-N1.JPG|London - Night 1|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-NewYork-N2.JPG|London - Night 2|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-NewYork-N3.JPG|London - Night 3|none|thumb|250px]]
+|}
+==== San Francisco ====
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-SanFrancisco-D1.JPG|San Francisco - Day 1|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-SanFrancisco-D2.JPG|San Francisco - Day 2|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-SanFrancisco-D3.JPG|San Francisco - Day 3|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-SanFrancisco-D4.JPG|San Francisco - Day 4|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-SanFrancisco-D5.JPG|San Francisco - Day 5|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-SanFrancisco-D6.JPG|San Francisco - Day 6|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-SanFrancisco-N1.JPG|San Francisco - Night 1|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-SanFrancisco-N2.JPG|San Francisco - Night 2|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-SanFrancisco-N3.JPG|San Francisco - Night 3|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-SanFrancisco-N4.JPG|San Francisco - Night 4|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-SanFrancisco-N5.JPG|San Francisco - Night 5|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoSecreensaver-appletv-SanFrancisco-N6.JPG|San Francisco - Night 6|none|thumb|250px]]
+|}
+
+=== Aquarium Collection ===
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/Aquarium001.png|Aquarium 1 - [846MB] - 400p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/Aquarium002-720p.png|Aquarium 2 - [2.7GB] - 720p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Aquarium003.PNG|Aquarium 3 - [2.4GB] - 720p|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Aquarium004.JPG|Aquarium 4 - [780MB] - 720p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Aquarium005.png|Aquarium 5 - [3.0GB] - 720p|none|thumb|250px]]
+|}
+=== Beach Collection ===
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Beach001.JPG|Beach 1 - [2.5GB] - 720p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Beach002.JPG|Beach 2 - [838MB] - 720p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Beach003.JPG|Beach 3 - [3.4GB] - 720p|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Beach004.JPG|Beach 4 - [768MB] - 720p|none|thumb|250px]]
+|}
+=== Clock Collection ===
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Clock001.JPG|Clock 1 - [1.5GB] - 720p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Clock002.JPG|Clock 2 - [1.3GB] - 360p|none|thumb|250px]]
+|}
+=== Fireplace Collection ===
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/Fireplace001-720p.png|Fireplace 1 - [965MB] - 720p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/Fireplace002.png|Fireplace 2 - [827MB] - 480p|none|thumb|182px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/Fireplace003-1080p.png|Fireplace 3 - [2.1GB] - 1080p|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Fireplace004.PNG|Fireplace 4 - [2.7GB] - 720p|none|thumb|250px]]
+|}
+=== Miscellaneous Collection ===
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Christmas001.JPG|Christmas 1 - [777MB] - 1080p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-JohnnyCastaway001.JPG|Johnny Castaway 1 - [75MB] - 480p|none|thumb|168px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Matrix001.JPG|Matrix 1 - [909MB] - 720p|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Ocean001.JPG|Ocean 1 - [1.1GB] - 720p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-RetroSciFi001.JPG|Retro Sci-Fi 1 - [200MB] - 1080p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-StarTrekTNG001.JPG|Star Trek TNG 1 - [54MB] - 720p|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Watermill001.JPG|Watermill 1 - [549MB] - 1080p|none|thumb|250px]]
+|}
+=== Snow Collection ===
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Snow001.JPG|Snow 1 - [1.3GB] - 720p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Snow002.JPG|Snow 2 - [677MB] - 1080p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Snow003.JPG|Snow 3 - [1.2GB] - 720p|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Snow004.JPG|Snow 4 - [1.5GB] - 720p|none|thumb|250px]]
+|}
+=== Space Collection ===
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Space001.PNG|Space 1 - [970MB] - 720p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Space002.JPG|Space 2 - [563MB] - 1080p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Space003.png|Space 3 - [2.2GB] - 720p|none|thumb|250px]]
+|-
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Space004.PNG|Space 4 - [1.2GB] - 720p|none|thumb|250px]]
+|}
+=== Waterfall Collection ===
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Waterfall001.JPG|Waterfall 1 - [1.3GB] - 720p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Waterfall002.JPG|Waterfall 2 - [1.3GB] - 720p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Waterfall003.JPG|Waterfall 3 - [2.4GB] - 720p|none|thumb|250px]]
+|}
+=== Woodland Collection ===
+{|
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Woodland001.JPG|Woodland 1 - [1.3GB] - 720p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Woodland002.JPG|Woodland 2 - [664MB] - 720p|none|thumb|250px]]
+| [[https://github.com/robwebset/repository.robwebset/raw/master/screensaver.video/images/VideoScreensaver-Woodland003.JPG|Woodland 3 - [1.0GB] - 720p|none|thumb|250px]]
+|}
+
+<br />
+== Built-In Overlay Images ==
+The following overlay images are supplied with the addon.
+{|
+| [[https://github.com/robwebset/screensaver.video/raw/master/resources/skins/Default/media/PictureFrame1.png|Picture Frame 1|none|thumb|100px]]
+| [[https://github.com/robwebset/screensaver.video/raw/master/resources/skins/Default/media/WindowFrame1.png|Window Frame 1|none|thumb|100px]]
+| [[https://github.com/robwebset/screensaver.video/raw/master/resources/skins/Default/media/WindowFrame2.png|Window Frame 2|none|thumb|100px]]
+|}
+<br />
+<br />
+== Weather ==
+VideoScreensaver can display the latest weather information in the top left hand corner of the screen if you wish. This feature makes use of the standard set of Weather addons available in the official Kodi repository, and can be configured via the VideoScreensaver settings.
+<br />
+== Clocks ==
+VideoScreensaver has special handling for clock videos. This enables the correct current time to be displayed. This is assuming the video is either 12 hours (for an analog clock) or 24 hours (for a digial clock) and starts at midnight/12 o'clock. The built in "Clock" screensaver videos will handle this and show the correct time. If you have a custom video you wish to be shown as a clock, then this can be done my naming it with the name "clock" in the filename.
+<br />
+== Custom Collections ==
+VideoScreensaver can handle the import of custom collections.  This allows users to make their own collections of videos and make them available for others to share.  The file format to import is as follows:
+
+<source lang="xml">
+<videoscreensaver>
+	<collection>Collection Name</collection>
+	<video>
+		<name>Video Name 1</name>
+		<filename>collection-filename1.mkv</filename>
+		<image>http://location/of/fame-image1.png</image>
+		<duration>3602</duration>
+		<primary>http://location/of/video2.mkv</primary>
+	</video>
+	<video>
+		<name>Video Name 2</name>
+		<filename>collection-filename2.mkv</filename>
+		<image>http://location/of/fame-image2.png</image>
+		<duration>2000</duration>
+		<primary>http://location/of/video1.mkv</primary>
+	</video>
+</videoscreensaver>
+</source>
+
+As many "video" elements can be added as required for the collection.  The filename should be unique from the other video files available, it is advised that the name of the collection is pre-pended to the filename. The "image" and duration elements are optional and the primary element contains the full URL to the source video file.
+
+This file can then be imported via the Video -> Addons -> VideoScreensaver menu item.
+<br />
+== Schedule ==
+It is possible to schedule which video is used at which time of day via the Schedule Settings. The rules to apply for schedules can either be defined directly in the settings, or defined in an XML file which is then referenced from the settings.
+
+<source lang="xml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<schedule>
+    <rule id="1" start="10:24" end="14:37" day="monday", video="myvideo.mkv" overlay="myoverlay.png" />
+    <rule id="2" start="16:00" end="18:00" video="myvideo2.mkv" overlay="myoverlay2.png" />
+</schedule>
+</source>
+
+The "day" attribute is optional and if set must be one of the values (monday, tuesday, wednesday, thursday, friday, saturday, sunday), the default is every day
+
+If no video is specified in the schedule settings, then it will fall back to the default rules from the screensaver settings.
+<br />
+<br />
+== Settings ==
+This section details all the settings options for VideoScreensaver
+=== Screensaver ===
+{| border="0"
+|- valign=top
+|
+:'''Use All Files In A Folder'''
+::Will play a selection of video files from a directory instead of a single file
+:'''Limit Session To Single Collection/Folder'''
+::When the screensaver starts it will only play videos that are part of a single collection or folder on the file system.
+:'''Include Nested Folders'''
+::Will include video files from sub directories as well as the root directory
+:'''Select Video Folder/File'''
+::Prompts for the video files to use as a screensaver
+:'''Repeat Type For Multiple Files'''
+::Repeat All - Will loop through all the videos in the folder
+::Repeat One - Will randomly select one video and keep repeating that video
+:'''Overlay Image'''
+::Allows for either a built in or user defined image to be overlayed on top of the video file
+|}
+
+=== Configuration ===
+{| border="0"
+|- valign=top
+|
+:'''Show Time'''
+::Displays the current time and data in the top right hand corner when the screensaver is active
+:'''Show Weather'''
+::Displays weather information in the top left hand corner
+:'''- Select Weather Addon'''
+::Selects the weather addon to display the weather details
+:'''Start Video At Random Point'''
+::When the video starts, will start at a random point into the duration of the video
+:'''Prevent Screensaver Starting If Playing Media'''
+::If there is media playing (i.e. Music or Video) and the screensaver is due to start, then if this is enabled, the screensaver will be prevented from starting.
+:'''Change Volume When Screensaver Starts'''
+::Allow the volume to be changed when the screensaver starts
+:'''- Set Volume To'''
+::The value to set the volume to when the screensaver starts
+:'''- Use Audio Engine Suspend For 0 Volume'''
+::If the screensaver volume is set to 0, then this option will suspend the Kodi Audio Engine rather than just reducing the volume to zero (This is useful if your system is set to passthrough audio)
+:'''Dim Level'''
+::How much to dim the screensaver video when it starts (0 = No Dim)
+:'''Stop Screensaver Automatically'''
+::Allow the screensaver to stop automatically after it has been playing for a given length of time. After stopping, the screensaver will start again after the default time of inactivity.
+:'''- Stop Screensaver After (Minutes)'''
+::Duration to let the screensaver play before stoping it
+:'''- Shutdown After Automatic Stop'''
+::After automatic shutdown has been triggered perform the default shutdown method set in the System -> Power Saving -> Shutdown Function
+|}
+
+=== Startup ===
+{| border="0"
+|- valign=top
+|
+:'''Reset Volume On Startup'''
+::Will reset the Kodi volume on startup of the system - this is useful if you always run your system at a set volume and use the TV or external audio system to change the volume (This way if the system crashes while playing a Video Screensaver, it will not leave the volume in an inconsistent state)
+:'''- Set Volume On Startup To'''
+::The value to set the Kodi volume to on startup
+:'''Launch Screensaver On Startup'''
+::When Kodi first starts the screensaver will start playing
+:<u>'''''Debugging'''''</u>
+::
+:'''Enable Debug logging'''
+::Enables VideoScreensaver debug logging into the Kodi log file
+|}
+
+=== Schedule ===
+{| border="0"
+|- valign=top
+|
+:'''Schedule Settings'''
+::This can take the following values: Off (No scheduling enabled), Settings (Configure via the settings menu, see options below) and File (Load configuration from a file, see the schedule section)
+:'''Number Of Schedule Rules'''
+::The number of different schedule rules to be configured
+:<u>'''''Rule X'''''</u>
+::
+:'''Start Time'''
+::The time of day that this rule starts being used
+:'''Stop Time'''
+::The time of day that this rule stops being used
+:'''Day'''
+::The day of the week that this rule starts being used
+:'''Select Video File'''
+::The video file to play while this rule is active
+:'''Overlay Image'''
+::The overlay image to use while this rule is active
+|}
+
+<br />
+== Detecting If VideoScreensaver Is Running ==
+The way that VideoScreensaver has been implemented in order to play a video as a screensaver, it will not be recorded via the normal "xbmc.Monitor" onScreensaverActivated() or onScreensaverDeactivated() method. In fact when the screensaver starts you will get both an onScreensaverActivated() and onScreensaverDeactivated() message before the VideoScreensaver starts playing.
+<br />
+If you wanted to work out if VideoScreensaver is active from another script then you can check for the "VideoScreensaverRunning" property being set:
+<source lang="xml">xbmcgui.Window(10000).getProperty("VideoScreensaverRunning")</source>
+This will return the value "true" if it is running.
+<br />
+It is also worth noting, that while the screensaver is starting up it will set the "VideoScreensaverStarting" property, that can be checked as follows:
+<source lang="xml">xbmcgui.Window(10000).getProperty("VideoScreensaverStarting")</source>
+This will return the value "true" if it is currently starting.
+<br />
+== Known Issues ==
+=== Auto-Shutdown Will Not Activate While VideoScreensaver Is Running ===
+If you enable Kodi Auto-Shutdown options in Kodi System Settings they will not trigger while VideoScreensaver is active - this is because the video being played as part of the screensaver will make Kodi "active". The impact of this can be lessened by enabling "Stop Screensaver Automatically" and setting "Shutdown After Automatic Stop"
+=== Changing Screensaver volume will not work when using audio Pass-Through ===
+If you have Audio-Passthrough enabled in your audio settings then the ability to reduce the volume of the screensaver will not function. This is because you have removed Kodi's control of the audio. If you wish to set the volume to zero, then there is an option to "Suspend The Audio Engine"
+=== Using password protected profiles will prompt before screensaver starts ===
+If you have a password protected profile and try and launch VideoScreensaver, then you will be prompted for the password '''''before''''' the screensaver starts instead of after. One alternative is to use [https://github.com/robwebset/script.pinsentry PinSentry] instead of profiles.
+<br />
+
+== FAQ ==
+=== Where are the built in videos stored after download? ===
+The location of the video files will vary depending on the OS where Kodi is installed. The location can be retrieved by switching the "Video Selection" option in settings to "User Defined". This will then display the full path in the "Select Videos Folder/File" setting.
+=== Can Kodi play music or radio while showing a screensaver video? ===
+Unfortunately this is not possible. This is because Kodi can only play one media type at a time.
+<br />
+== Debugging ==
+If reporting a problem, please also provide a debug log. To do this you need to enable BOTH:
+* Kodi logging from the main setting menu
+* VideoScreensaver debug from the VideoScreensaver addon settings menu
+Please do not paste the log into the forum thread, just link to it.
+<br />
