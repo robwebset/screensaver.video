@@ -1,9 +1,6 @@
 [[https://github.com/robwebset/screensaver.video/raw/master/icon.png]]
 
 == Introduction ==
-You can install this addon from: [https://www.urepo.org URepo Repository]
-<br />
-<br />
 VideoScreensaver is a screensaver that will play a video file when the screensaver starts. It will support playing either a user specified video file, or one of several pre-defined video files.
 <br />
 

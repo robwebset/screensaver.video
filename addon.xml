@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="screensaver.video" name="VideoScreensaver" version="100.8.0" provider-name="robwebset">
+<addon id="screensaver.video" name="VideoScreensaver" version="100.9.0" provider-name="robwebset">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 		<import addon="script.module.simplejson" version="3.3.0"/>
@@ -55,8 +55,7 @@
 		<language></language>
 		<platform>all</platform>
 		<license>See LICENSE.txt</license>
-		<forum>http://www.urepo.org/forum/viewtopic.php?t=1775</forum>
-		<news>Available from the URepo repository</news>
+		<forum>https://github.com/robwebset/screensaver.video</forum>
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
